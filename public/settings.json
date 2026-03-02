@@ -1,10 +1,10 @@
 {
   "mode": "remote",
-  "githubRepo": "Freakz3z/HNNU-Wiki",
+  "githubRepo": "panda-lsy/SVL-Wiki",
   "branch": "main",
   "localDocsFolder": "docs",
-  "siteTitle": "HNNU-Wiki",
-  "navbarTitle": "HNNU-Wiki",
-  "logoPath": "/logo.jpg",
-  "faviconPath": "/logo.jpg"
+  "siteTitle": "SVL-Wiki",
+  "navbarTitle": "SVL-Wiki",
+  "logoPath": "/icon.png",
+  "faviconPath": "/icon.png"
 }
